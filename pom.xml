@@ -135,4 +135,7 @@
 		</dependency>
 	</dependencies>
 
+	<modules>
+		<module>isg-e3d-web</module>
+	</modules>
 </project>
