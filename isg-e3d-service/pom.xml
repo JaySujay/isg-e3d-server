@@ -5,9 +5,7 @@
     <artifactId>isg-e3d-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
   </parent>
-  <artifactId>isg-e3d-web</artifactId>
-  <packaging>war</packaging>
-  <name>E3D Web Archive</name>
-  <description>Deployable for E3D Services</description>
-
+  <artifactId>isg-e3d-service</artifactId>
+  <name>E3D Service</name>
+  <description>Spring Service</description>
 </project>

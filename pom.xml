@@ -137,5 +137,6 @@
 
 	<modules>
 		<module>isg-e3d-web</module>
+		<module>isg-e3d-service</module>
 	</modules>
 </project>
